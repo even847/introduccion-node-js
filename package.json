@@ -1,0 +1,25 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Module Node JS introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/even847/introduccion-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodeJs",
+    "node",
+    "js"
+  ],
+  "author": "Edwin Aponte <aponte847@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/even847/introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/even847/introduccion-node-js#readme"
+}
